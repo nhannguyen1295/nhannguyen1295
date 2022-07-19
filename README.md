@@ -25,6 +25,6 @@ Here are some ideas to get you started:
   + TypesScript with NestJS, but not main skill, and i am confused by Observable with Rxjs
   + A bit of Angular 
   + Golang  
-  + Misc: CI/CD with Jenkins
+  + Misc: CI/CD with Jenkins, Linux bash shell
  
 :books: Currently i'm learning blockchain with Golang (for fun and knowledge), software design pattern
